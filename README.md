@@ -1,6 +1,6 @@
 # CompSc Grade 11 Worksheets CBSE 
 
-# CompSc Grade 11 Worksheets CBSE 
+CompSc Grade 11 Worksheets CBSE 
 
 All Chapters 
 
